@@ -1,2 +1,2 @@
 # Library-management-system
-A website used to manage books in the library
+This is a front end separation of the library management system
